@@ -1,6 +1,6 @@
 body {
     font-family: 'Times New Roman', Times, serif;
-    background: hsl(212, 71%, 84%);
+    background: hsl(212, 88%, 51%);
 }
 
 #content {
@@ -16,7 +16,7 @@ h1 {
 }
 
 p {
-	color: rgb(175, 5, 197);
+	color: rgb(78, 179, 226);
 	font-weight: bold;
 	text-align: center;
 }
